@@ -12,6 +12,18 @@ Chat, ideas, Q&A and show-and-tell. No membership required.
 
 ---
 
+## ⚡ Quick links · 快速入口
+
+| | |
+| --- | --- |
+| 🖥️ **Web Dashboard** · 网页看板 | <https://mwi-m6oguild.skyner.cn> |
+| 📖 **Docs** · 文档站 | <https://mwi-m6oguild.skyner.cn/docs/> |
+| 🧩 **Userscript** · 插件安装 | <https://mwi-m6oguild.skyner.cn/userscript/mwi-guild-trial-sync.user.js> |
+
+**New to the forge? · 第一次上手？** Install the [Tampermonkey](https://www.tampermonkey.net/) extension → open the userscript link above → click **Install** → refresh the game page; the **WS** button appears in the bottom-right corner. 中文步骤见 [使用指南](https://mwi-m6oguild.skyner.cn/docs/guide.html)。
+
+---
+
 **Hall rules, short version:** be a decent traveler — no spam, no hostility, right post in the right category. English or 中文, both fine by the forge. ⚒️
 
 > *Code. Hammer. Ship. Repeat.*
